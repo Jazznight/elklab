@@ -54,6 +54,11 @@ systemctl start elasticsearch.service
 
 ## Kibana
 
+下載 Kibana
+```shell
+wget https://artifacts.elastic.co/downloads/kibana/kibana-5.2.2-x86_64.rpm
+```
+
 安裝 Kibana
 
 ```shell
